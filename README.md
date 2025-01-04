@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seva Jaya Satriya</h1>
-<h3 align="center">I like to explore and develop through this vast-verse of wondering tech industry</h3>
+<h3 align="center">I like to explore and develop through this vast-verse of promising AI & Automation for tech industry</h3>
 
 - 🔭 I’m currently working on **Prodigy**
 
