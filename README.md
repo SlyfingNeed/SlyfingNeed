@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Prodigy**
 
-- 🌱 I’m currently learning **LLM, AI Automation, AI Generative**
-
-- ⚡ Fun fact **I think I am funny**
+- 🌱 I’m currently learning **LLM, AI Automation, AGI, ML on Quant Research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
